@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 27-11-2024
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -55,6 +55,87 @@ map.html
 </body>
 </html>
 
+ckc.html
+
+<html>
+<body bgcolor="yellow">
+<font size="100">
+<li>"sri ckc cinemas is the best sport to see the trending movies"</li>
+<li>"In this cinemas theatre,the cost is best"</li>
+</font>
+</body>
+</html
+
+bru.html
+
+<html>
+<body bgcolor="green">
+<font size="100">
+<li>"A hot shower relaxed the tight muscles in my neck and shoulders"</li>
+<li>"I can't relax with all this noise! Just relax, there's nothing to worry about."</li>
+</font>
+</body>
+</html
+
+reliance.html
+
+<html>
+<body bgcolor="pink">
+<font size="100">
+<li>"There is a reliance on public sector and manufacturing jobs"</li>
+<li>"Its heavy reliance on national oil companies has long been seen as a strength."</li>
+</font>
+</body>
+</html
+
+sathiya.html
+
+<html>
+<body bgcolor="red">
+<font size="100">
+<li>"It is the best residency in thirupathur"</li>
+<li>" the cost of the residency is better than the other"</li>
+</font>
+</body>
+</html
+
+green.html
+
+<html>
+<body bgcolor="orange">
+<font size="100">
+<li>"Green Trends transformed the landscape of salons and made beauty and styling aspirations a reality for all."</li>
+<li>"It has a lavishing green fields and natural scape to its beauty."</li>
+</font>
+</body>
+</html
+
+poorvika.html
+
+<html>
+<body bgcolor="cyan">
+<font size="100">
+<li>"Poorvika mobiles is the one of the best shop for mobiles"</li>
+<li>"the cost is the best other than the many mobiles shop"</li>
+</font>
+</body>
+</html
+
+```
+
+
+## OUTPUT
+![alt text](vijay/1.png)
+![alt text](vijay/2.png)
+![alt text](vijay/3.png)
+![alt text](vijay/4.png)
+![alt text](vijay/6.png)
+![alt text](vijay/7.png)
+![alt text](vijay/8.png)
+
+
+## RESULT
+The program for implementing image maps using HTML is executed successfully.
 
 
 
