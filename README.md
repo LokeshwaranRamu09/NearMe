@@ -154,16 +154,3 @@ The program for implementing image maps using HTML is executed successfully.
 
 
 
-```
-
-
-## OUTPUT
-
-
-
-
-
-
-
-## RESULT
-The program for implementing image maps using HTML is executed successfully.
